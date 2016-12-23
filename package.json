@@ -1,0 +1,12 @@
+{
+  "name": "NK-Trump(imarobot)",
+  "version": "0.0.1",
+  "description": "A robot that recontextualizes the tweets of Nationalists.",
+  "main": "bot.js",
+  "repository": "https://github.com/newswim/greatest-leader-bot.git",
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
